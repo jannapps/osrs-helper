@@ -9,6 +9,13 @@ This project is mostly an experiment in vibecoding. Please do not mistake any of
 
 This web app ~~is~~ will be designed to address a gap in the existing tools available for Old School RuneScape players. Current tools often make rigid assumptions about how players engage with the game, which can lead to suboptimal or unrealistic recommendations. This project aims to provide a more flexible and nuanced approach to evaluating profitability and XP rates for various in-game activities.
 
+### Technologies
+
+- **Backend**: Ruby on Rails
+- **Frontend**: Node.js
+- **Database**: PostgreSQL
+- **Task Management**: Rake for database schema management
+
 ### Example Use Case
 
 Consider a scenario where you're training your Farming skill and want to make some money at the same time. You might:
